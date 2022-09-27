@@ -5,6 +5,7 @@
 package packClases;
 
 import java.util.ArrayList;
+import java.util.Locale;
 
 /**
  *
@@ -53,5 +54,7 @@ public class PrimeraClase {
             p.mostrar();
         }
           
+        
+        System.out.printf("PROGRAMACIÓN II");
     }
 }
